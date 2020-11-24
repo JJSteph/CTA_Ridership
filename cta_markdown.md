@@ -1,6 +1,7 @@
 CTA Ridership
 ================
 John Stephen
+
 11/23/2020
 
 I’m going to look at CTA rail ridership during 2020. I want to see how
